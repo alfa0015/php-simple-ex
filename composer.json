@@ -1,0 +1,13 @@
+{
+    "name": "alfa0015/php-simple-ex",
+    "authors": [
+        {
+            "name": "Rafael Alfaro",
+            "email": "alfa0015.rafael@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=7.1"
+    }
+}
